@@ -59,8 +59,6 @@
 
 - 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/7236ZLYBE6XT)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/JEEF3SXTDFP5)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/7236ZLYBE6XT)
   
