@@ -59,3 +59,4 @@
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/JEEF3SXTDFP5)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/7236ZLYBE6XT)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/3FJHS7J7XD7F)
+-  [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Tools of the Trade: Linux and SQL(https://www.coursera.org/account/accomplishments/verify/XZEV6TW7GZHG)
